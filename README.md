@@ -1,5 +1,5 @@
 # PRISM AI Agent
-Join our (https://x.com/PRISMAI_)
+Join our (https://x.com/PRISMAI_AGENT)
 An opinionated, batteries-included, ElizaOS distribution designed for ease of development and secure, scalable deployments.
 
 ## Overview
@@ -72,8 +72,8 @@ Once all containers show green status, access the Agent UI at http://localhost:3
 
 ## Support & Community
 
-Join our (https://x.com/PRISMAI_) for support and discussions!
+Join our (https://x.com/PRISMAI_AGENT) for support and discussions!
 
 ---
 
-Made with ❤️ by [@PRISMAI_]([https://x.com/PRISMAI_]) .
+Made with ❤️ by [@PRISMAI_]([https://x.com/PRISMAI_AGENT]) .
